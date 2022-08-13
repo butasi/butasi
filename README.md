@@ -1,7 +1,5 @@
 ## 📖 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Hello+There+👋"></h3> 
 ## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
-## 📖
-
 <!--
 **butasi/butasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-* 💻 I'm a Software developer
-* 💻 Linux System Administrator ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-* 🎨 I'm a Self-taught ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) Developer
+## * 💻 Software developer
+## ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) System Administrator 
+* 🎨 Self-taught ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) Developer
 * 📱 I write code for Arduino Mega and ESP32 Modules
 * 🎓 I'm a Business Information Technoogy student
 * 🔭 I’m currently working on porting PostmarketOS to Samsung S6 Edge
-* ⚡ Fun fact: If you believe it you can do it
+* ⚡ Fun fact: If you can imagine it you can do it
 * 😄 Pronouns: IAM
 * 💬 Ask me about Anything Arduino 
 > ![Butasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=butasi&show_icons=true&theme=radical)
