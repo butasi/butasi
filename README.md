@@ -1,5 +1,4 @@
 ## 📖 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Hello+There+👋"></h3> 
-## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
 <!--
 **butasi/butasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +22,8 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: If you can imagine it you can do it
 * 😄 Pronouns: IAM
 * 💬 Ask me about Anything Arduino 
+## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
+## 📖
 > ![Butasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=butasi&show_icons=true&theme=radical)
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 📖
@@ -47,3 +48,4 @@ Here are some ideas to get you started:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+## 📖
