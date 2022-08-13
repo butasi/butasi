@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 * 🎓 I'm a Business Information Technoogy student
 * 🔭 I’m currently working on porting PostmarketOS to Samsung S6 Edge
 * ⚡ Fun fact: If you can imagine it you can do it
-* 😄 Pronouns: IAM
+## 😄 Pronouns: IAM
 * 💬 Ask me about Anything Arduino 
 ## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
-## 📖
 > ![Butasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=butasi&show_icons=true&theme=radical)
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 📖
 ## Operating Systems
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
