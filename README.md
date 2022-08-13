@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ## 📖
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=butasi&repo=butasi&theme=radical)](https://github.com/butasi/github-readme-stats)
