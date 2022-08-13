@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 * 📱 I write code for Arduino Mega and ESP32 Modules
 * 🎓 I'm a Business Information Technoogy student
 
+> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&show_icons=true&theme=radical)
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Kotlin](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
