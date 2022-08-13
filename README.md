@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: If you believe it you can do it
 * 😄 Pronouns: IAM
 * 💬 Ask me about Anything Arduino
-
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=butasi&theme=radical)
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&show_icons=true&theme=radical)
-
+> ![Butasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=butasi&show_icons=true&theme=radical)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📖
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Kotlin](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
