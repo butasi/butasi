@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * 💻 I'm a Software developer
 * 💻 Linux System Administrator
 * 🎨 I'm a Self-taught Arduino Developer
-* 📱 I make apps for Android and iOS Using React Native
+* 📱 I write code for Arduino Mega and ESP32 Modules
 * 🎓 I'm a Business Information Technoogy student
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
