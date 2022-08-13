@@ -1,4 +1,4 @@
-## 📖 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Hello+There+👋"></h3> 
+## <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Hello+There+👋"></h3> 
 <!--
 **butasi/butasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## * 💻 Software developer
+##  💻 Software developer
 ## ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) System Administrator 
 * 🎨 Self-taught ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) Developer
 * 📱 I write code for Arduino Mega and ESP32 Modules
@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 ## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
 > ![Butasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=butasi&show_icons=true&theme=radical)
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-## 📖
-## Operating Systems
+## Operating Systems 💻
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
