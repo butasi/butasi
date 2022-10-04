@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 ## ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) System Administrator 
 * 🎨 Self-taught ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) Developer
 * 📱 I write code for Arduino Mega and ESP32 Modules
-* 🎓 I'm a Business Information Technoogy student
+* 🎓 I'm a Business Information Technogy Graduate
 * 🔭 I’m currently working on porting PostmarketOS to Samsung S6 Edge
 * ⚡ Fun fact: If you can imagine it you can do it
+* 📫 How to reach me: grand-treacle-1d9c0b.netlify.app
 ## 😄 Pronouns: IAM
 * 💬 Ask me about Anything Arduino 
 ## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
@@ -29,9 +30,6 @@ Here are some ideas to get you started:
 ## Operating Systems 💻
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 [Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
@@ -46,3 +44,4 @@ Here are some ideas to get you started:
 ## Other📖
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 📖
+[![Netlify Status](https://api.netlify.com/api/v1/badges/be5cbb3e-0bb2-47b5-8241-4b80313387f8/deploy-status)](https://app.netlify.com/sites/grand-treacle-1d9c0b/deploys)
