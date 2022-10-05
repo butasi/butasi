@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: If you can imagine it you can do it
 * 📫 How to reach me: grand-treacle-1d9c0b.netlify.app
 ## 😄 Pronouns: IAM
-* 💬 Ask me about Anything Arduino 
+* 💬 Ask me Anything Arduino, Samsung and Linux
 ## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
 ## Operating Systems 💻
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
