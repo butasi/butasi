@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 * 📱 I write code for Arduino Mega and ESP32 Modules
 * 🎓 I'm a Business Information Technogy Graduate
 * 🔭 I’m currently working on porting PostmarketOS to Samsung S6 Edge
+* 🌱 I’m currently learning node.js
 * ⚡ Fun fact: If you can imagine it you can do it
 * 📫 How to reach me: grand-treacle-1d9c0b.netlify.app
 ## 😄 Pronouns: IAM
 * 💬 Ask me about Anything Arduino 
 ## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
-> ![Butasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=butasi&show_icons=true&theme=radical)
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butasi&theme=radical)](https://github.com/butasi)
 ## Operating Systems 💻
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
