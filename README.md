@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 * 🎨 Self-taught Arduino Software Engineer
 * 📱 I write code for Arduino Mega and ESP32 Modules
 * 🎓 I'm a Business Information Technogy Graduate
-* 🔭 I’m currently working on porting PostmarketOS to Samsung S6 Edge
+* 🔭 I’m currently working on Arduino
 * 🌱 I’m currently learning node.js
 * ⚡ Fun fact: If you can imagine it you can do it
 * 📫 How to reach me: butasi.rodgers@gmail.com
-## 😄 Pronouns: IAM
 * 💬 Ask me Anything Arduino, Samsung, Arch Linux and One Piece
 ## I use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) BTW
 ## Operating Systems I stumbled upon💻
